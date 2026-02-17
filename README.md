@@ -1,5 +1,5 @@
 <h1 align="center">McBrown Mwale</h1>
-<h3 align="center">An Educator</h3>
+<h3 align="center">Business Educator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mcbrownmwale&label=Profile%20views&color=0e75b6&style=flat" alt="mcbrownmwale" /> </p>
 
